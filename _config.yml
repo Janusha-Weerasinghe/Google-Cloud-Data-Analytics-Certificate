@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Topic 1: Programming Basics"
+    url: "/docs/topic-1.md"
+  - title: "Topic 2: Algorithms"
+    url: "/docs/topic-2.md"
